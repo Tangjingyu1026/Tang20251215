@@ -1,12 +1,12 @@
 第一步：在ubuntu设置共享
 
-![image-20260113114806701](F:\git_work\Tang20251215\共享文件夹\window和ubuntu共享.assets\image-20260113114806701.png)
+![image-20260113114806701](./window和ubuntu共享.assets/image-20260113114806701.png)
 
 
 
 第二步:在window上创建共享文件夹
 
-![image-20260113115035431](F:\git_work\Tang20251215\共享文件夹\window和ubuntu共享.assets\image-20260113115035431.png)
+![image-20260113115035431](./window和ubuntu共享.assets/image-20260113115035431.png)
 
 第三步：在虚拟机执行以下命令
 
