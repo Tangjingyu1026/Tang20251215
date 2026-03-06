@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tjy/CODE/Demo_IO_Multi/source/io.h
+stdint.h
+-
+Windows.h
+-
+unistd.h
+-
+
+/home/tjy/CODE/Demo_IO_Multi/source/main.c
+stdio.h
+/home/tjy/CODE/Demo_IO_Multi/source/stdio.h
+usb_device.h
+/home/tjy/CODE/Demo_IO_Multi/source/usb_device.h
+io.h
+/home/tjy/CODE/Demo_IO_Multi/source/io.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+usb_device.h
+/home/tjy/CODE/Demo_IO_Multi/source/usb_device.h
+io.h
+/home/tjy/CODE/Demo_IO_Multi/source/io.h
+
+/home/tjy/CODE/Demo_IO_Multi/source/usb_device.h
+stdint.h
+-
+Windows.h
+-
+unistd.h
+-
+

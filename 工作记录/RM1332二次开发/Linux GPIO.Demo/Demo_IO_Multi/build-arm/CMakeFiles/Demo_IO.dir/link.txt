@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-gcc   -rdynamic CMakeFiles/Demo_IO.dir/home/tjy/CODE/Demo_IO_Multi/source/main.c.o  -o Demo_IO  -Wl,-rpath,/home/tjy/CODE/Demo_IO_Multi/cmake/../libs/linux/aarch64 /home/tjy/CODE/Demo_IO_Multi/cmake/../libs/linux/aarch64/libusb-1.0.so /home/tjy/CODE/Demo_IO_Multi/cmake/../libs/linux/aarch64/librockmong.so 

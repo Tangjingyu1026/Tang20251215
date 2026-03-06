@@ -1,0 +1,3 @@
+/home/tjy/CODE/Demo_IO_Multi/build-arm/CMakeFiles/rebuild_cache.dir
+/home/tjy/CODE/Demo_IO_Multi/build-arm/CMakeFiles/edit_cache.dir
+/home/tjy/CODE/Demo_IO_Multi/build-arm/CMakeFiles/Demo_IO.dir
