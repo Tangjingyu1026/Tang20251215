@@ -1,0 +1,5 @@
+C:\Users\Pei\Documents\rockmong\user2\.public\例程-通用控制\c#\Demo_MIPI_RFFE\bin\Debug\Demo_MIPI_RFFE.exe
+C:\Users\Pei\Documents\rockmong\user2\.public\例程-通用控制\c#\Demo_MIPI_RFFE\bin\Debug\Demo_MIPI_RFFE.pdb
+C:\Users\Pei\Documents\rockmong\user2\.public\例程-通用控制\c#\Demo_MIPI_RFFE\obj\Debug\Demo_MIPI_RFFE.csprojResolveAssemblyReference.cache
+C:\Users\Pei\Documents\rockmong\user2\.public\例程-通用控制\c#\Demo_MIPI_RFFE\obj\Debug\Demo_MIPI_RFFE.exe
+C:\Users\Pei\Documents\rockmong\user2\.public\例程-通用控制\c#\Demo_MIPI_RFFE\obj\Debug\Demo_MIPI_RFFE.pdb

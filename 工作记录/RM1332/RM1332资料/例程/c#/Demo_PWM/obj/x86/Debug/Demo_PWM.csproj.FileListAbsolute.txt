@@ -1,0 +1,4 @@
+C:\Users\Pei\Documents\rockmong\user2\.public\例程-通用控制\c#\Demo_PWM\bin\x86\Debug\Demo_PWM.exe
+C:\Users\Pei\Documents\rockmong\user2\.public\例程-通用控制\c#\Demo_PWM\bin\x86\Debug\Demo_PWM.pdb
+C:\Users\Pei\Documents\rockmong\user2\.public\例程-通用控制\c#\Demo_PWM\obj\x86\Debug\Demo_PWM.exe
+C:\Users\Pei\Documents\rockmong\user2\.public\例程-通用控制\c#\Demo_PWM\obj\x86\Debug\Demo_PWM.pdb

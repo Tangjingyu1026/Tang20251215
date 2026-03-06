@@ -1,0 +1,18 @@
+﻿Build started 2024/8/19 21:48:34.
+     1>Project "C:\Users\Pei\Documents\rockmong\user\RM10x0用户资料\例程\cc++\Demo_PWM\msvc\Demo_PWM.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\.tmp\\" /Fd"x64\Debug\.tmp\vc120.pdb" /Gd /TC /errorReport:prompt ..\source\main.c
+         main.c
+     1>..\source\main.c : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>c:\users\pei\documents\rockmong\user\rm10x0用户资料\例程\cc++\demo_pwm\source\usb_device.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>c:\users\pei\documents\rockmong\user\rm10x0用户资料\例程\cc++\demo_pwm\source\io.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>c:\users\pei\documents\rockmong\user\rm10x0用户资料\例程\cc++\demo_pwm\source\adc.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>c:\users\pei\documents\rockmong\user\rm10x0用户资料\例程\cc++\demo_pwm\source\pwm.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"x64\Debug\Demo_PWM.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\libs\windows\x86_64 librockmong.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"x64\Debug\Demo_PWM.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"x64\Debug\Demo_PWM.lib" /MACHINE:X64 x64\Debug\.tmp\main.obj
+         Demo_PWM.vcxproj -> C:\Users\Pei\Documents\rockmong\user\RM10x0用户资料\例程\cc++\Demo_PWM\msvc\x64\Debug\Demo_PWM.exe
+     1>Done Building Project "C:\Users\Pei\Documents\rockmong\user\RM10x0用户资料\例程\cc++\Demo_PWM\msvc\Demo_PWM.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.57

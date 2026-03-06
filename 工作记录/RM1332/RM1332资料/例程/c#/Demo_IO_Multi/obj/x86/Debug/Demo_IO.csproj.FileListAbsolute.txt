@@ -1,0 +1,4 @@
+C:\Users\Pei\Documents\rockmong\user\RM10x0用户资料\例程\c#\Demo_IO_Multi\bin\x86\Debug\Demo_IO.exe
+C:\Users\Pei\Documents\rockmong\user\RM10x0用户资料\例程\c#\Demo_IO_Multi\bin\x86\Debug\Demo_IO.pdb
+C:\Users\Pei\Documents\rockmong\user\RM10x0用户资料\例程\c#\Demo_IO_Multi\obj\x86\Debug\Demo_IO.exe
+C:\Users\Pei\Documents\rockmong\user\RM10x0用户资料\例程\c#\Demo_IO_Multi\obj\x86\Debug\Demo_IO.pdb

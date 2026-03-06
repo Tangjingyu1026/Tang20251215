@@ -1,0 +1,1 @@
+有些windows10或11系统，双击打开没有反应。将文件名改为纯英文名再试试，例如RockmongTools.exe

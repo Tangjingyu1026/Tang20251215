@@ -1,0 +1,16 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Pei/Documents/01/Demo_PWM/app/src/main/res/layout/activity_main.xml" value="0.2921195652173913" />
+        <entry key="..\:/Users/Pei/Documents/Demo_PWM/Demo_PWM/app/src/main/res/layout/activity_main.xml" value="0.2046875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

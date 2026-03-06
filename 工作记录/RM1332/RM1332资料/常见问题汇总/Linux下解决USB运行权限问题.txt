@@ -1,0 +1,8 @@
+1.sudo gedit /etc/udev/rules.d/rockmong_usb.rules
+
+2.输入下面内容并保存退出
+ACTION=="add",SUBSYSTEM=="usb", ATTRS{idVendor}=="0483", ATTRS{idProduct}=="7918", MODE:="0777",SYMLINK+="rockmong_usb"
+
+3.sudo chmod 777 /etc/udev/rules.d/rockmong_usb.rules
+
+4.最后重新插拔USB口就可以了

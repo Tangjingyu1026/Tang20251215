@@ -1,0 +1,5 @@
+C:\Users\Pei\Documents\rockmong\user\RM10x0用户资料\例程\c#\Demo_ADC\bin\x86\Debug\Demo_ADC.exe
+C:\Users\Pei\Documents\rockmong\user\RM10x0用户资料\例程\c#\Demo_ADC\bin\x86\Debug\Demo_ADC.pdb
+C:\Users\Pei\Documents\rockmong\user\RM10x0用户资料\例程\c#\Demo_ADC\obj\x86\Debug\Demo_ADC.exe
+C:\Users\Pei\Documents\rockmong\user\RM10x0用户资料\例程\c#\Demo_ADC\obj\x86\Debug\Demo_ADC.pdb
+C:\Users\Pei\Documents\rockmong\user\RM10x0用户资料\例程\c#\Demo_ADC\obj\x86\Debug\Demo_ADC.csprojResolveAssemblyReference.cache

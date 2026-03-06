@@ -1,0 +1,55 @@
+% 加载 DLL 文件和头文件
+loadlibrary('rockmongSDK\libs\windows\x86\librockmong.dll', 'rockmongSDK\matlab\rockmong.h');
+
+% 创建输入参数和输出参数
+SerialNumbers = libpointer('int32Ptr', zeros(1, 10)); % 申请一段连续的内存空间，用于存放设备序列号
+numDevices = 0; % 初始化设备数量为 0
+
+% 调用 DLL 中的函数
+numDevices = calllib('librockmong', 'UsbDevice_Scan', SerialNumbers);
+
+% 显示结果
+if numDevices > 0
+    disp(['Found ', num2str(numDevices), ' devices:']);
+    disp(SerialNumbers.Value(1:numDevices));
+elseif numDevices == 0
+    disp('No USB devices found.');
+else
+    error('Failed to scan USB devices.');
+end
+
+% 设备序号
+SerialNumber = SerialNumbers.Value(1);
+disp(['SerialNumber: ', num2str(SerialNumber)]);
+
+% 同时控制16个IO
+ioNum = 1;
+
+% 包含所需的头文件
+coder.cinclude('rockmong.h');
+
+% 创建结构体并填充字段
+initStructTx.Pin = 1;
+initStructRx.Mode = 2;
+initStructRx.Pull = 2;
+
+cInitStructTx = Read_C_Struct_From_header('rockmong.h', 'IO_InitStruct_Tx')
+cInitStructRx = Read_C_Struct_From_header('rockmong.h', 'IO_InitStruct_Rx')
+
+cInitStructTx.Pin = 0;
+
+
+% 调用初始化函数
+res = calllib('librockmong', 'IO_InitMultiPin', SerialNumber, cInitStructTx, cInitStructRx, ioNum);
+disp(['res: ', num2str(res)]);
+if res ~= 0
+    error('Failed to init pin.');
+end
+
+% 释放内存空间
+clear cInitStructTx;
+clear cInitStructRx;
+clear SerialNumbers;
+
+% 释放库文件
+unloadlibrary('librockmong');
