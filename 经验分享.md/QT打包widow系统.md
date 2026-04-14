@@ -4,7 +4,7 @@
 
  
 
-2. 打开QT的安装路径（C:\Qt\5.15.2\mingw81_32\bin）复制以下文件
+2.打开QT的安装路径（C:\Qt\5.15.2\mingw81_32\bin）复制以下文件
 
 Qt5Core.dll Qt 核心模块
 
@@ -22,7 +22,7 @@ libwinpthread-1.dll MinGW 线程库
 
  
 
-3. 复制插件文件夹（可选）
+3.复制插件文件夹（可选）
 
 从 C:\Qt\5.15.2\mingw81_64\plugins 复制以下文件夹到A目录：
 
@@ -36,4 +36,4 @@ libwinpthread-1.dll MinGW 线程库
 
 4. 最终显示如下
 
-#### ![img](F:\git_work\Tang20251215\经验分享.md\QT打包widow系统.assets\wps2.jpg) 
+#### ![img](./QT打包widow系统.assets/wps2.jpg) 
