@@ -34,6 +34,6 @@ libwinpthread-1.dll MinGW 线程库
 
  
 
-4. 最终显示如下
+4.最终显示如下
 
-#### ![img](./QT打包widow系统.assets/wps2.jpg) 
+![image-20260414173337237](./QT打包widow系统.assets/image-20260414173337237.png)
