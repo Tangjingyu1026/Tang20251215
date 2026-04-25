@@ -130,7 +130,9 @@ mvn -version
 
 F:\ruanjian\ESOPSoftWare\goland激活码\goland激活码\windows\windows\windows\2022
 
-3. 填写激活码![img](./ESOP.assets/ESOP软件安装.assets/wps62.jpg)
+3.填写激活码
+
+![img](./ESOP.assets/ESOP软件安装.assets/wps62.jpg)
 
 **四．*****\*安装 Postman，\****
 
