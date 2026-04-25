@@ -144,7 +144,7 @@ RESOURCES += translations.qrc
 
 find ~ -name "qt-everywhere-src-5.15.2" -type d 2>/dev/null
 
-![img](F:\git_work\Tang20251215\QT\QT使用\QT中英文切换配置.assets\wps7.jpg) 
+![img](./QT.assets/QT中英文切换配置.assets/wps7.jpg) 
 
 2.编译 ARM 版 Qt 5.15.2
 
