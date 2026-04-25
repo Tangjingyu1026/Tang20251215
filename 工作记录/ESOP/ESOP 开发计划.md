@@ -102,11 +102,11 @@ java 环境.
 
 工位设备，填写工位号，访问服务器地址后。展示图片界面。
 
-![img](./ESOP.assets/ESOP 开发计划.assets/wps1.jpg) 
+![img](./ESOP.assets/ESOP开发计划.assets/wps1.jpg) 
 
-![img](./ESOP.assets/ESOP 开发计划.assets/wps2.jpg) 
+![img](./ESOP.assets/ESOP开发计划.assets/wps2.jpg) 
 
-![img](./ESOP.assets/ESOP 开发计划.assets/wps3.jpg) 
+![img](./ESOP.assets/ESOP开发计划.assets/wps3.jpg) 
 
  
 
@@ -162,7 +162,7 @@ java 环境.
 
 ### **看板数据统计：5天**
 
-![img](./ESOP.assets/ESOP 开发计划.assets/wps4.jpg) 
+![img](./ESOP.assets/ESOP开发计划.assets/wps4.jpg) 
 
  
 
@@ -186,11 +186,11 @@ java 环境.
 
 前端页面展示列表。
 
-![img](./ESOP.assets/ESOP 开发计划.assets/wps5.jpg)
+![img](./ESOP.assets/ESOP开发计划.assets/wps5.jpg)
 
-![img](./ESOP.assets/ESOP 开发计划.assets/wps6.jpg) 
+![img](./ESOP.assets/ESOP开发计划.assets/wps6.jpg) 
 
-![img](./ESOP.assets/ESOP 开发计划.assets/wps7.jpg) 
+![img](./ESOP.assets/ESOP开发计划.assets/wps7.jpg) 
 
 ### **工位文件收藏：7天**
 
