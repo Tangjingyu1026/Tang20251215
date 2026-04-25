@@ -22,7 +22,9 @@ C:\Qt\5.15.2\mingw81_32\bin\lupdate.exe LightController20260311.pro,将路径替
 
 输入后按回车，如果一切正常，你会看到类似下面的输出：
 
-![img](F:\git_work\Tang20251215\QT\QT使用\QT中英文切换配置.assets\wps26.jpg)![img](F:\git_work\Tang20251215\QT\QT使用\QT中英文切换配置.assets\wps27.jpg) 
+![img](F:\git_work\Tang20251215\QT\QT使用\QT中英文切换配置.assets\wps26.jpg)
+
+![img](F:\git_work\Tang20251215\QT\QT使用\QT中英文切换配置.assets\wps27.jpg) 
 
 app_zh.ts 和 app_en.ts 已经生成项目文件夹中
 
@@ -136,9 +138,7 @@ RESOURCES += translations.qrc
 
  
 
- 
-
-1. 编译 ARM 版的 Qt 5.15.2 库,ARM 版本的 Qt 库(这里我使用的qt5.15.2),我之前安装过
+1.编译 ARM 版的 Qt 5.15.2 库,ARM 版本的 Qt 库(这里我使用的qt5.15.2),我之前安装过
 
 \# 查找 Qt 5.15.2 源码目录
 
