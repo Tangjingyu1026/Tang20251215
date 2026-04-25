@@ -1,6 +1,6 @@
-### **QT中英文切换配置**
+# **QT中英文切换**
 
-![img](F:\git_work\Tang20251215\QT\QT使用\QT中英文切换配置.assets\wps25.jpg) 
+![img](./QT.assets/QT中英文切换配置.assets/wps1.jpg) 
 
 ***\*步骤1：在项目文件（.pro）中启用翻译\****
 
@@ -22,9 +22,7 @@ C:\Qt\5.15.2\mingw81_32\bin\lupdate.exe LightController20260311.pro,将路径替
 
 输入后按回车，如果一切正常，你会看到类似下面的输出：
 
-![img](F:\git_work\Tang20251215\QT\QT使用\QT中英文切换配置.assets\wps26.jpg)
-
-![img](F:\git_work\Tang20251215\QT\QT使用\QT中英文切换配置.assets\wps27.jpg) 
+![img](./QT.assets/QT中英文切换配置.assets/wps2.jpg)![img](./QT.assets/QT中英文切换配置.assets/wps3.jpg) 
 
 app_zh.ts 和 app_en.ts 已经生成项目文件夹中
 
@@ -48,7 +46,7 @@ app_zh.ts 和 app_en.ts 已经生成项目文件夹中
 
 4.保存文件
 
-![img](F:\git_work\Tang20251215\QT\QT使用\QT中英文切换配置.assets\wps28.jpg) 
+![img](./QT.assets/QT中英文切换配置.assets/wps4.jpg) 
 
 ②打开 app_en.ts 进行英文翻译
 
@@ -70,7 +68,7 @@ app_zh.ts 和 app_en.ts 已经生成项目文件夹中
 
 执行后，项目文件夹中会出现 app_zh.qm 和 app_en.qm 文件
 
-![img](F:\git_work\Tang20251215\QT\QT使用\QT中英文切换配置.assets\wps29.jpg) 
+![img](./QT.assets/QT中英文切换配置.assets/wps5.jpg) 
 
 ***\*步骤5：将 .qm 文件集成到项目中\****
 
@@ -92,7 +90,7 @@ app_zh.ts 和 app_en.ts 已经生成项目文件夹中
 
 打开main.cpp,在main()函数中找到加载翻译的部分(如果没有就添加)
 
-![img](F:\git_work\Tang20251215\QT\QT使用\QT中英文切换配置.assets\wps30.jpg) 
+![img](./QT.assets/QT中英文切换配置.assets/wps6.jpg) 
 
  
 
@@ -138,12 +136,16 @@ RESOURCES += translations.qrc
 
  
 
-1.编译 ARM 版的 Qt 5.15.2 库,ARM 版本的 Qt 库(这里我使用的qt5.15.2),我之前安装过
+ 
+
+1. 编译 ARM 版的 Qt 5.15.2 库,ARM 版本的 Qt 库(这里我使用的qt5.15.2),我之前安装过
 
 \# 查找 Qt 5.15.2 源码目录
 
 find ~ -name "qt-everywhere-src-5.15.2" -type d 2>/dev/null
 
-![img](F:\git_work\Tang20251215\QT\QT使用\QT中英文切换配置.assets\wps31.jpg) 
+![img](F:\git_work\Tang20251215\QT\QT使用\QT中英文切换配置.assets\wps7.jpg) 
 
 2.编译 ARM 版 Qt 5.15.2
+
+ 
